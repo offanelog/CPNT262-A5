@@ -33,6 +33,10 @@ db.once('open', function() {
 
 });
 
+app.get('/', function(req, res){
+  res.send('<h1>Welcome Anime list</h1><p>Enter this endpoint /api/v0/animes to see array of objects</p><p>or enter this endpoint /api/v0/animes/:id to return individualy.</p><p>Id must be 1 to 12</p>.')
+});
+
 
 // endpoint for all objects
 // thanks Patrick!
