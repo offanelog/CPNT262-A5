@@ -1,5 +1,11 @@
 # CPNT262-A5 JSON Server w/ Heroku & MongoDB/Atlas
-<p>By Offanel Genelien</p>
-<h1> Attribution </h1>
-<ol>
-<li><a href="[url](https://github.com/sait-wbdv/in-class)">Tony in-class</a> In class code helped alot because I was lost in server.js.</li>
+By Offanel Genelien
+
+# Attribution
+1. Tony in class code
+2. Kevin Taguchi (Code Review and help with Mongoose)
+3. Micheal Mardell 
+
+# Link
+*Github*Repo*: https://github.com/offanelog/CPNT262-a4.git
+*Heroku*: https://cpnt262----a5.herokuapp.com/
