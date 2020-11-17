@@ -4,7 +4,7 @@ By Offanel Genelien
 # Attribution
 1. Tony in class code
 2. Kevin Taguchi (Code Review and help with Mongoose)
-3. Micheal Mardell 
+
 
 # Link
 *Github*Repo*: https://github.com/offanelog/CPNT262-a4.git
